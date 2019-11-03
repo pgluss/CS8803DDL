@@ -28,15 +28,15 @@ Data_Folder --> Label_Folder --> Label_Folder --> Actual_Video
 
 ## Task List
 ### Majors 
-[x] Set up environment for video processing on AWS leveraging EC2 and S3
-[x] Complete first method of classification -- converting videos into still frames and classifying the images rather than the whole video itself
-[x] Understand and be able to articulate the strengths and weaknesses of a static frame classification approach
-[x] Design architecture for video classification with spatial and temportal dimensions.
-[] Complete implementation of a spatio-temporal classifier using CNNs
-[] Complete implementation of a spatio-temporal classifier using a CNN and RNN
-[] Integrate model into the EVA video querying engine
-[] Test system on new videos introduced to the data set
+- [x] Set up environment for video processing on AWS leveraging EC2 and S3
+- [x] Complete first method of classification -- converting videos into still frames and classifying the images rather than the whole video itself
+- [x] Understand and be able to articulate the strengths and weaknesses of a static frame classification approach
+- [x] Design architecture for video classification with spatial and temportal dimensions.
+- [ ] Complete implementation of a spatio-temporal classifier using CNNs
+- [ ] Complete implementation of a spatio-temporal classifier using a CNN and RNN
+- [ ] Integrate model into the EVA video querying engine
+- [ ] Test system on new videos introduced to the data set
 
 ### Minors
-[] Massage video file structure to reduce nested folders
-[] Generalize for variable video sizes (currently this is hard-coded)
+- [ ] Massage video file structure to reduce nested folders
+- [ ] Generalize for variable video sizes (currently this is hard-coded)
